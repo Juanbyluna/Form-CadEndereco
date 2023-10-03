@@ -37,7 +37,7 @@ const perquisarCep = async() => {
         }
          }else{
             alert('CEP incorreto')     
-    
+         
     }
 }
 
