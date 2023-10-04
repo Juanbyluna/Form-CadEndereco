@@ -37,7 +37,7 @@ Possui uma Função que se você digitar seu cep o programa completará o endere
 ## 🔗Fontes consultadas
 * Chat gpt
 * Google
-* [Alura](https://www.alura.com.br/)
+* [Alura]([https://www.alura.com.br/](https://www.alura.com.br/artigos/escrever-bom-readme))
 ## 🤜🤛Colaboradores
 * Leonardo Santiago Sidon da Rocha
 * Witória Beatriz
