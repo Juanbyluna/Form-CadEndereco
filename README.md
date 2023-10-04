@@ -8,10 +8,8 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 * [Tecologias utilizadas](#tecologias-utilizadas)  
 * [Fontes consultadas](#fontes-consultadas)  
 * [Autores](#autores)
-
 ## 🖼️Capa do Projeto
 <img src="imgs/Capa.png">
-
 ## 📄Descrição 
     Este projeto tem a função de adicionar cep, endereço, número, bairr cidade e Estado.
 ## 👾Funcionalidades
