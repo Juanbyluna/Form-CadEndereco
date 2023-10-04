@@ -1,10 +1,11 @@
 # Formulario de Cadastro de Endereço
 Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da Rocha.
 
-* [Projeto](#Formulario-de-Cadastro-de-Endereco)  
-* [Capa-do-Projeto](#capa-do-projeto)
-* [Descrição](#descrição)    
+* [Projeto](#Formulario-de-Cadastro-de-Endereco)
+* [Descrição](#descrição)  
+* [Capa-do-Projeto](#capa-do-projeto)  
 * [Funcionalidades](#funcionalidades)  
+* [Como usar](#como-usar)
 * [Tecologias utilizadas](#tecologias-utilizadas)  
 * [Fontes consultadas](#fontes-consultadas)  
 * [Autores](#autores)
@@ -17,11 +18,11 @@ Este projeto tem a função de adicionar cep, endereço, número, bairr cidade e
 ## 👾Funcionalidades
 
 Possui também uma Função que se você dijitar seu cep o programa completará o endereço, bairro, Cidade e o Estado
-## 🔧Como usar
+## 📸Como usar
 
 <img src="imgs/Comousar.gif">
 
-### Tabela de cores
+### 🎨Tabela de cores
 
 * 💙Azul e azul-claro 
 * 🤍Branco
