@@ -10,15 +10,23 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 * [Autores](#autores)
 ## 🖼️Capa do Projeto
 <img src="imgs/Capa.png">
-## 📄Descrição 
+
+## 📄Descrição
+
     Este projeto tem a função de adicionar cep, endereço, número, bairr cidade e Estado.
+
 ## 👾Funcionalidades
+
     Possui também uma Função que se você dijitar seu cep o programa completará o endereço, bairro, Cidade e o Estado.
 ## 🔧Como usar
+
 <img src="imgs/Comousar.gif">
-##### Tabela de cores
+
+### Tabela de cores
+
 * 💙Azul e azul-claro 
 * 🤍Branco
+
 ### 🤖Tecologias utilizadas
 * HTML 5
 * CSS 3
