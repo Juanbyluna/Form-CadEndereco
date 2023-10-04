@@ -2,7 +2,7 @@
 Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da Rocha.
 
 * [Projeto](#Formulario-de-Cadastro-de-Endereco)  
-* [Capa-do-Projeto]
+* [Capa-do-Projeto](#capa-do-projeto)
 * [Descrição](#descrição)    
 * [Funcionalidades](#funcionalidades)  
 * [Tecologias utilizadas](#tecologias-utilizadas)  
@@ -13,21 +13,16 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 <img src="imgs/Capa.png">
 
 ## 📄Descrição 
-
-O prjeto consiste em um calendario virtual que qualquer pessoa pode acessar atravez de seu smartphone ou computador.
-(Possui apenas um mes)
+    Este projeto tem a função de adicionar cep, endereço, número, bairr cidade e Estado.
 ## 👾Funcionalidades
-Escolher cor para adicionar em um dia especifico do mês;
-Selecionar data;
-Aplicar cor a data selecionada;
+    Possui também uma Função que se você dijitar seu cep o programa completará o endereço, bairro, Cidade e o Estado.
 ## 🔧Como usar
 <img src="imgs/Comousar.gif">
 
 ##### Tabela de cores
 * 💙Azul
-* 💚Verde 
-* 💗Rosa 
-* 💜Roxo  
+* 🤍Branco
+*   
 
 ### 🤖Tecologias utilizadas
 * HTML 5
