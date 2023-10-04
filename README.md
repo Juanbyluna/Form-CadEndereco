@@ -14,7 +14,7 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 
 ## 📄Descrição
 
-Este projeto tem a função de adicionar cep, endereço, número, bairr cidade e Estado
+Este projeto tem a função de adicionar cep, endereço, número, bairro cidade e Estado
 ## 👾Funcionalidades
 
 Possui também uma Função que se você dijitar seu cep o programa completará o endereço, bairro, Cidade e o Estado
