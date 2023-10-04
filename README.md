@@ -2,8 +2,8 @@
 Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da Rocha.
 
 * [Projeto](#Formulario-de-Cadastro-de-Endereco)
-* [Descrição](#descrição)  
-* [Capa-do-Projeto](#capa-do-projeto)  
+* [Capa-do-Projeto](#capa-do-projeto) 
+* [Descrição](#descrição)   
 * [Funcionalidades](#funcionalidades)  
 * [Como usar](#como-usar)
 * [Tecologias utilizadas](#tecologias-utilizadas)  
