@@ -38,8 +38,8 @@ Possui também uma Função que se você dijitar seu cep o programa completará 
 * Google
 * https://www.alura.com.br/
 ## 🤜🤛Colaboradores
-Leonardo Santiago Sidon da Rocha.
-Witória Beatriz
-Jasminy Matias
+* Leonardo Santiago Sidon da Rocha
+* Witória Beatriz
+* Jasminy Matias
 ## ✒️Autores
 Juan Fernandes Goes de Souza
