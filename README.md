@@ -18,17 +18,13 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
     Possui também uma Função que se você dijitar seu cep o programa completará o endereço, bairro, Cidade e o Estado.
 ## 🔧Como usar
 <img src="imgs/Comousar.gif">
-
 ##### Tabela de cores
-* 💙Azul
+* 💙Azul e azul-claro 
 * 🤍Branco
-*   
-
 ### 🤖Tecologias utilizadas
 * HTML 5
 * CSS 3
 * VsCode (Visual Code)
-
 ## 🔧Ferramentas utilizadas
 * JavaScript
 * GitHub
@@ -36,9 +32,9 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 * Chat gpt
 * Google
 * https://www.alura.com.br/
-
 ## 🤜🤛Colaboradores
 Leonardo Santiago Sidon da Rocha.
-
+Witória Beatriz
+Jasminy Matias
 ## ✒️Autores
 Juan Fernandes Goes de Souza
